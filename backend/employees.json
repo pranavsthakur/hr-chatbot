@@ -1,0 +1,204 @@
+{
+  "employees": [
+    {
+      "id": 1,
+      "name": "Alice Johnson",
+      "skills": ["Python", "React", "AWS"],
+      "experience_years": 5,
+      "projects": ["E-commerce Platform", "Healthcare Dashboard"],
+      "availability": "available"
+    },
+    {
+      "id": 2,
+      "name": "Michael Rodriguez",
+      "skills": ["Java", "Spring Boot", "Docker", "Kubernetes"],
+      "experience_years": 6,
+      "projects": ["Patient Risk Prediction System", "Banking Middleware"],
+      "availability": "busy"
+    },
+    {
+      "id": 3,
+      "name": "Sarah Chen",
+      "skills": ["Machine Learning", "TensorFlow", "PyTorch"],
+      "experience_years": 6,
+      "projects": ["Medical Diagnosis Platform", "AI Image Classifier"],
+      "availability": "available"
+    },
+    {
+      "id": 4,
+      "name": "David Smith",
+      "skills": ["React Native", "Node.js", "Firebase"],
+      "experience_years": 4,
+      "projects": ["Mobile Fitness App", "Ride Sharing App"],
+      "availability": "available"
+    },
+    {
+      "id": 5,
+      "name": "Priya Patel",
+      "skills": ["Python", "Data Engineering", "Airflow"],
+      "experience_years": 5,
+      "projects": ["Healthcare ETL Pipeline", "IoT Data Aggregator"],
+      "availability": "busy"
+    },
+    {
+      "id": 6,
+      "name": "John Doe",
+      "skills": ["AWS", "DevOps", "Terraform", "Docker"],
+      "experience_years": 7,
+      "projects": ["Cloud Migration Project", "CI/CD Pipeline"],
+      "availability": "available"
+    },
+    {
+      "id": 7,
+      "name": "Emily Davis",
+      "skills": ["React", "TypeScript", "GraphQL"],
+      "experience_years": 3,
+      "projects": ["Social Media Dashboard", "E-learning Portal"],
+      "availability": "available"
+    },
+    {
+      "id": 8,
+      "name": "James Lee",
+      "skills": ["Python", "Flask", "NLP"],
+      "experience_years": 4,
+      "projects": ["Customer Chatbot", "Text Analytics Pipeline"],
+      "availability": "available"
+    },
+    {
+      "id": 9,
+      "name": "Olivia Brown",
+      "skills": ["Angular", "Java", "Oracle"],
+      "experience_years": 8,
+      "projects": ["Banking CRM", "Insurance Claims Processing"],
+      "availability": "busy"
+    },
+    {
+      "id": 10,
+      "name": "Robert Wilson",
+      "skills": ["C#", ".NET", "Azure"],
+      "experience_years": 5,
+      "projects": ["Hospital Management System", "HR Payroll System"],
+      "availability": "available"
+    },
+    {
+      "id": 11,
+      "name": "Sophia Martinez",
+      "skills": ["Python", "Django", "PostgreSQL"],
+      "experience_years": 4,
+      "projects": ["Inventory Management System", "Healthcare Billing"],
+      "availability": "available"
+    },
+    {
+      "id": 12,
+      "name": "Liam Taylor",
+      "skills": ["Golang", "Microservices", "Kubernetes"],
+      "experience_years": 6,
+      "projects": ["Payment Gateway", "Logistics Platform"],
+      "availability": "busy"
+    },
+    {
+      "id": 13,
+      "name": "Isabella Thomas",
+      "skills": ["React Native", "Firebase", "Figma"],
+      "experience_years": 2,
+      "projects": ["Healthcare Mobile App", "E-commerce Mobile App"],
+      "availability": "available"
+    },
+    {
+      "id": 14,
+      "name": "Ethan White",
+      "skills": ["DevOps", "Jenkins", "AWS"],
+      "experience_years": 5,
+      "projects": ["Cloud CI/CD Automation", "Healthcare Infra Migration"],
+      "availability": "available"
+    },
+    {
+      "id": 15,
+      "name": "Mia Hall",
+      "skills": ["Python", "Data Science", "Pandas"],
+      "experience_years": 3,
+      "projects": ["Patient Data Analysis", "Retail Demand Forecasting"],
+      "availability": "available"
+    },
+    {
+      "id": 16,
+      "name": "Benjamin Scott",
+      "skills": ["JavaScript", "Vue.js", "Node.js"],
+      "experience_years": 4,
+      "projects": ["Travel Booking App", "Marketing Dashboard"],
+      "availability": "busy"
+    },
+    {
+      "id": 17,
+      "name": "Charlotte King",
+      "skills": ["Python", "Scikit-learn", "ML Ops"],
+      "experience_years": 5,
+      "projects": ["Healthcare Risk Scoring", "AI Recommendation Engine"],
+      "availability": "available"
+    },
+    {
+      "id": 18,
+      "name": "Henry Allen",
+      "skills": ["Rust", "Blockchain", "WebAssembly"],
+      "experience_years": 3,
+      "projects": ["Fintech Smart Contracts", "DeFi Trading Bot"],
+      "availability": "available"
+    },
+    {
+      "id": 19,
+      "name": "Amelia Wright",
+      "skills": ["Java", "Spring Boot", "Kafka"],
+      "experience_years": 7,
+      "projects": ["Real-time Health Monitoring", "Financial Data Pipeline"],
+      "availability": "busy"
+    },
+    {
+      "id": 20,
+      "name": "Lucas Hill",
+      "skills": ["C++", "Embedded Systems", "IoT"],
+      "experience_years": 6,
+      "projects": ["Healthcare IoT Sensors", "Automotive ECU Programming"],
+      "availability": "available"
+    },
+    {
+      "id": 21,
+      "name": "Grace Young",
+      "skills": ["Python", "FastAPI", "OpenAI API"],
+      "experience_years": 3,
+      "projects": ["AI Chatbot", "Document Summarization"],
+      "availability": "available"
+    },
+    {
+      "id": 22,
+      "name": "Jack Hernandez",
+      "skills": ["PHP", "Laravel", "MySQL"],
+      "experience_years": 5,
+      "projects": ["E-commerce Website", "Healthcare CRM"],
+      "availability": "busy"
+    },
+    {
+      "id": 23,
+      "name": "Victoria Adams",
+      "skills": ["React", "Node.js", "AWS"],
+      "experience_years": 4,
+      "projects": ["Online Learning Platform", "Healthcare Dashboard"],
+      "availability": "available"
+    },
+    {
+      "id": 24,
+      "name": "Daniel Baker",
+      "skills": ["Python", "Flask", "OpenCV"],
+      "experience_years": 3,
+      "projects": ["Medical Imaging Tool", "Facial Recognition System"],
+      "availability": "available"
+    },
+    {
+      "id": 25,
+      "name": "Zoe Perez",
+      "skills": ["Scala", "Spark", "Big Data"],
+      "experience_years": 5,
+      "projects": ["Healthcare Data Lake", "Retail Analytics"],
+      "availability": "available"
+    }
+  ]
+}
