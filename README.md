@@ -29,6 +29,9 @@ This chatbot leverages **semantic search** and a **conversational interface** to
 - **Test Coverage** → Unit tests to ensure stable API performance.
 
 ---
+## DEMO 
+
+https://docs.google.com/document/d/1dvfYqv9fZ9gLzETJR-yD1ajAppEbiPlxvXPiGJd7bTs/edit?usp=sharing
 
 ## System Architecture
 ```text
@@ -50,18 +53,24 @@ Tech Stack:
 
 hr-chatbot/
 │
-├── backend/
-│   ├── main.py           # FastAPI app entry
-│   ├── search.py         # Semantic search logic
-│   ├── models/           # Pydantic models
-│   ├── tests/            # Unit tests
+├── backend/                  # Backend (FastAPI)
+│   ├── main.py               # FastAPI app entry point
+│   ├── search.py             # Semantic search logic (FAISS + SentenceTransformers)
+│   ├── models.py             # Pydantic models (request & response schemas)
+│   ├── employees.json        # Sample employee dataset (25 employees)
+│   └── __init__.py           # Makes backend a package
 │
-├── frontend/
-│   ├── app.py            # Streamlit UI
+├── frontend/                 # Frontend (Streamlit)
+│   └── app.py                # Streamlit UI code
 │
-├── data/                 # Employee dataset (JSON)
-├── screenshots/          # UI screenshots
-└── README.md
+├── tests/                    # Unit tests
+│   └── test_api.py           # Tests for API endpoints
+│
+├── venv/                     # Virtual environment (ignored in .gitignore)
+├── .gitignore                # Git ignore file
+├── requirements.txt          # Project dependencies
+└── README.md                 # Project documentation
+
 
 GETTING STARTED 
 
